@@ -1,3 +1,7 @@
-async function run() {}
+import log from "./util/log";
 
-void run();
+const run = () => {
+    log("Demo Apps");
+};
+
+run();
