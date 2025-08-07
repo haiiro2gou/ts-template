@@ -22,13 +22,13 @@
   },
   "author": "haiiro2gou <mrashen.2gou@gmail.com>",
   "license": "MIT License",
-  "homepage": "https://github.com/haiiro2gou/mcsrvctl#readme",
+  "homepage": "https://github.com/haiiro2gou/ts-template#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haiiro2gou/mcsrvctl.git"
+    "url": "git+https://github.com/haiiro2gou/ts-template.git"
   },
   "bugs": {
-    "url": "https://github.com/haiiro2gou/mcsrvctl/issues"
+    "url": "https://github.com/haiiro2gou/ts-template/issues"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
